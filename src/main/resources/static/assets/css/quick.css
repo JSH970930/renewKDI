@@ -4,6 +4,7 @@
 
 .icon-boxes{
     position : relative;
+    width: 220px;
     height: 700px;
     float: left;
     top: 30px;
